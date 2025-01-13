@@ -13,12 +13,18 @@
     { "src": "imagenes/12.png", "alt": "Imagen 12" },
     { "src": "imagenes/13.png", "alt": "Imagen 13" },
     { "src": "imagenes/14.png", "alt": "Imagen 14" },
-    { "src": "imagenes/16.png", "alt": "Imagen 16" },
-    { "src": "imagenes/18.png", "alt": "Imagen 18" },
-    { "src": "imagenes/19.png", "alt": "Imagen 19" },
-    { "src": "imagenes/20.png", "alt": "Imagen 20" },
-    { "src": "imagenes/24.png", "alt": "Imagen 22" }, 
-    { "src": "imagenes/25.png", "alt": "Imagen 23" },
-    { "src": "imagenes/26.png", "alt": "Imagen 24" }
+    { "src": "imagenes/15.png", "alt": "Imagen 15" },
+    { "src": "imagenes/16.png", "alt": "Imagen 20" },
+    { "src": "imagenes/17.png", "alt": "Imagen 24" },
+    { "src": "imagenes/18.png", "alt": "Imagen 21" },
+    { "src": "imagenes/19.png", "alt": "Imagen 22" },
+    { "src": "imagenes/20.png", "alt": "Imagen 23" },
+    { "src": "imagenes/21.png", "alt": "Imagen 24" },
+    { "src": "imagenes/22.png", "alt": "Imagen 24" },
+    { "src": "imagenes/23.png", "alt": "Imagen 24" },
+    { "src": "imagenes/24.png", "alt": "Imagen 24" },
+    { "src": "imagenes/25.png", "alt": "Imagen 24" },
+    { "src": "imagenes/26.png", "alt": "Imagen 24" },
+    { "src": "imagenes/27.png", "alt": "Imagen 24" }
   ]
   
